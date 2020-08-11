@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guitar Tuner</string>
+    <string name="string_A">A</string>
+    <string name="string_D">D</string>
+    <string name="string_G">G</string>
+    <string name="string_B">B</string>
+    <string name="string_E">E</string>
+</resources>
